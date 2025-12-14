@@ -26,6 +26,7 @@ features:<br>
         5. admin panel for the admin to manage the contents.<br>
         6. Form validations 
 
+
 ### Front-end Features :
 In front a i have used vanilla-js for interactivity
 and core html, css for markup and style.<br>
@@ -42,5 +43,6 @@ For front-end I have used HTML CSS JS and for back-end I have used PHP SQL.
 I have used XAMPP as local severe and phpMyadmin for Database managment system.
 
 ### Requirement : Import the DATABASE.sql file to your phpMyadmin 
+
 
 
