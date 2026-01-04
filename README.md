@@ -1,6 +1,5 @@
 # Car-eCommerce-PHP
 I have used OOP PHP for this project. So, the idea of this project was to deal with cars. Add cars and other auto parts for sell. add to Cart, get product informations.
-
 ## Main Page
 ![](GIF/home.gif)
 ## Cart
@@ -40,6 +39,7 @@ For front-end I have used HTML CSS JS and for back-end I have used PHP SQL.
 I have used XAMPP as local severe and phpMyadmin for Database managment system.
 
 ### Requirement : Import the DATABASE.sql file to your phpMyadmin 
+
 
 
 
