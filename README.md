@@ -6,7 +6,6 @@ I have used OOP PHP for this project. So, the idea of this project was to deal w
 ![](GIF/cart.gif)
 ## Admin Penel
 ![](GIF/admin.gif)
-
 ### For more views go to the Screen shots folder
 
 The admin panel has 7 eidting option : users, orders, products, cars, my thoughts, stories and gallary. The admin can remove a member and his/her orders.
@@ -36,6 +35,7 @@ I have used core HTML CSS JavaScript and PHP in this project. There's no framewo
 For front-end I have used HTML CSS JS and for back-end I have used PHP SQL.
 I have used XAMPP as local severe and phpMyadmin for Database managment system.
 ### Requirement : Import the DATABASE.sql file to your phpMyadmin 
+
 
 
 
