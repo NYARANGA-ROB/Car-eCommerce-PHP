@@ -11,7 +11,6 @@ I have used OOP PHP for this project. So, the idea of this project was to deal w
 The admin panel has 7 eidting option : users, orders, products, cars, my thoughts, stories and gallary. The admin can remove a member and his/her orders.
 admin can add products and cars for deals. Admin can post his thoughts about cars or other cars related items. admin can also add stories to show users. I got this story concept
 from BMW automobile webisite. 
-
 ### Features : CURD and CMS
 I have mainly used the concept of CURD and CMS in procedural php.
 features:<br>
@@ -35,6 +34,7 @@ I have used core HTML CSS JavaScript and PHP in this project. There's no framewo
 For front-end I have used HTML CSS JS and for back-end I have used PHP SQL.
 I have used XAMPP as local severe and phpMyadmin for Database managment system.
 ### Requirement : Import the DATABASE.sql file to your phpMyadmin 
+
 
 
 
