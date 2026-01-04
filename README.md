@@ -36,8 +36,8 @@ and core html, css for markup and style.<br>
 I have used core HTML CSS JavaScript and PHP in this project. There's no framework used of any of these language.
 For front-end I have used HTML CSS JS and for back-end I have used PHP SQL.
 I have used XAMPP as local severe and phpMyadmin for Database managment system.
-
 ### Requirement : Import the DATABASE.sql file to your phpMyadmin 
+
 
 
 
