@@ -3,6 +3,7 @@ I have used OOP PHP for this project. So, the idea of this project was to deal w
 ## Main Page
 ![](GIF/home.gif)
 ## Cart
+
 ![](GIF/cart.gif)
 ## Admin Penel
 ![](GIF/admin.gif)
@@ -33,6 +34,7 @@ I have used core HTML CSS JavaScript and PHP in this project. There's no framewo
 For front-end I have used HTML CSS JS and for back-end I have used PHP SQL.
 I have used XAMPP as local severe and phpMyadmin for Database managment system.
 ### Requirement : Import the DATABASE.sql file to your phpMyadmin 
+
 
 
 
